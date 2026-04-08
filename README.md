@@ -1,7 +1,7 @@
 # Client-Data-Analytics-Case-Study
 This project analyzes client/platform data to extract insights about user behavior, performance metrics, and engagement trends. The goal is to support data-driven decision-making using exploratory data analysis and visualization techniques.
 
-### Internship Data Analysis Project – MAJORMEDIA
+## Internship Data Analysis Project – MAJORMEDIA
 
 ~ Overview :
 This repository presents a documented version of my internship project at MAJORMEDIA, where I worked on analyzing and visualizing real client data for a digital platform.
@@ -53,6 +53,5 @@ This repository is a reconstruction based on official internship documentation.
 Original source code and dataset were not retained due to post-internship file loss and confidentiality constraints.
 
 
-Author
-Data Engineering Student
-Aspiring Data Analyst | Open to Remote Opportunities
+### Author
+`Data Engineering Student | Aspiring Data Analyst | Open to Remote Opportunities`
